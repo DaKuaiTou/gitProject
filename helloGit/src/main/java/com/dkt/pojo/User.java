@@ -8,6 +8,7 @@ public class User {
     private String username;
     private String password;
     private String age;
+    private String address;
 
     public User () {
     }
