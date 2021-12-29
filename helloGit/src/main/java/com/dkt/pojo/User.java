@@ -7,6 +7,7 @@ package com.dkt.pojo;
 public class User {
     private String username;
     private String password;
+    private String age;
 
     public User () {
     }
